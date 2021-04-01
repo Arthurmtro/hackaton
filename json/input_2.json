@@ -1,0 +1,38 @@
+[
+  {
+    "service_name": "backend",
+    "volStock": 5,
+    "volRam": 4,
+    "nbrProcess": 12
+  },
+  {
+    "service_name": "frontend",
+    "volStock": 5,
+    "volRam": 20,
+    "nbrProcess": 6
+  },
+  {
+    "service_name": "database",
+    "volStock": 3000,
+    "volRam": 10,
+    "nbrProcess": 2
+  },
+  {
+    "service_name": "cicd",
+    "volStock": 1000,
+    "volRam": 16,
+    "nbrProcess": 4
+  },
+  {
+    "service_name": "reporting",
+    "volStock": 1000,
+    "volRam": 4,
+    "nbrProcess": 2
+  },
+  {
+    "service_name": "alerting",
+    "volStock": 100,
+    "volRam": 1,
+    "nbrProcess": 1
+  }
+]

@@ -1,0 +1,20 @@
+[
+    {
+      "service_name": "service_1",
+      "volStock": 10,
+      "volRam": 2,
+      "nbrProcess": 1
+    },
+    {
+      "service_name": "service_2",
+      "volStock": 15000,
+      "volRam": 4,
+      "nbrProcess": 2
+    },
+    {
+      "service_name": "service_3",
+      "volStock": 500,
+      "volRam": 30,
+      "nbrProcess": 1
+    }
+  ]

@@ -1,0 +1,162 @@
+[
+  {
+    "model": "tiny1",
+    "co2production": 2000,
+    "co2usage": 100,
+    "disk": 200,
+    "ram": 4,
+    "cores": 1
+  },
+  {
+    "model": "tiny2",
+    "co2production": 3000,
+    "co2usage": 150,
+    "disk": 500,
+    "ram": 8,
+    "cores": 1
+  },
+  {
+    "model": "tiny3",
+    "co2production": 2500,
+    "co2usage": 100,
+    "disk": 500,
+    "ram": 6,
+    "cores": 1
+  },
+  {
+    "model": "compute2",
+    "co2production": 13000,
+    "co2usage": 4500,
+    "disk": 500,
+    "ram": 16,
+    "cores": 48
+  },
+  {
+    "model": "memory1",
+    "co2production": 10000,
+    "co2usage": 1000,
+    "disk": 500,
+    "ram": 32,
+    "cores": 4
+  },
+  {
+    "model": "classic1",
+    "co2production": 6000,
+    "co2usage": 1000,
+    "disk": 1000,
+    "ram": 16,
+    "cores": 8
+  },
+  {
+    "model": "classic5",
+    "co2production": 12000,
+    "co2usage": 3000,
+    "disk": 1000,
+    "ram": 64,
+    "cores": 24
+  },
+  {
+    "model": "compute1",
+    "co2production": 12000,
+    "co2usage": 4000,
+    "disk": 1000,
+    "ram": 16,
+    "cores": 40
+  },
+  {
+    "model": "compute3",
+    "co2production": 16200,
+    "co2usage": 6000,
+    "disk": 1000,
+    "ram": 16,
+    "cores": 64
+  },
+  {
+    "model": "memory2",
+    "co2production": 14000,
+    "co2usage": 1300,
+    "disk": 1000,
+    "ram": 128,
+    "cores": 8
+  },
+  {
+    "model": "classic2",
+    "co2production": 11000,
+    "co2usage": 2000,
+    "disk": 2000,
+    "ram": 32,
+    "cores": 16
+  },
+  {
+    "model": "classic3",
+    "co2production": 6000,
+    "co2usage": 3000,
+    "disk": 2000,
+    "ram": 32,
+    "cores": 16
+  },
+  {
+    "model": "classic4",
+    "co2production": 15000,
+    "co2usage": 3500,
+    "disk": 4000,
+    "ram": 32,
+    "cores": 32
+  },
+  {
+    "model": "classic6",
+    "co2production": 11500,
+    "co2usage": 3000,
+    "disk": 4000,
+    "ram": 16,
+    "cores": 24
+  },
+  {
+    "model": "large2",
+    "co2production": 25000,
+    "co2usage": 8000,
+    "disk": 8000,
+    "ram": 32,
+    "cores": 40
+  },
+  {
+    "model": "large1",
+    "co2production": 25000,
+    "co2usage": 10000,
+    "disk": 10000,
+    "ram": 64,
+    "cores": 64
+  },
+  {
+    "model": "storage2",
+    "co2production": 10000,
+    "co2usage": 300,
+    "disk": 10000,
+    "ram": 8,
+    "cores": 1
+  },
+  {
+    "model": "large3",
+    "co2production": 40000,
+    "co2usage": 15000,
+    "disk": 20000,
+    "ram": 128,
+    "cores": 80
+  },
+  {
+    "model": "storage1",
+    "co2production": 13000,
+    "co2usage": 600,
+    "disk": 20000,
+    "ram": 8,
+    "cores": 4
+  },
+  {
+    "model": "storage3",
+    "co2production": 15000,
+    "co2usage": 1000,
+    "disk": 25000,
+    "ram": 8,
+    "cores": 4
+  }
+]
